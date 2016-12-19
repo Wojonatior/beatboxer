@@ -17,6 +17,10 @@ button.beat {
 }
 
 button.on {
+  border-color: red;
+}
+
+button.on.ticked {
   background-color: red;
   border-color: red;
 }
